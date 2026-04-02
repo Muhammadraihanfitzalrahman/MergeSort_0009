@@ -34,4 +34,7 @@ void input()
     }
 }
 
+// create function mergeSort
+void mergeSort(int low, int high)
+
 
